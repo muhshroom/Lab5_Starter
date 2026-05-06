@@ -8,7 +8,7 @@ function init() {
 
   // VOLUME
   const volume = document.getElementById('volume');
-  volume.addEventListener('change', updt_volume);
+  volume.addEventListener('input', updt_volume);
 
   // BUTTON
   const button = document.querySelector('button');
