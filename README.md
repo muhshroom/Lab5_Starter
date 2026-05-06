@@ -1,7 +1,7 @@
 # Lab 5 - Starter
 Name: Diana Kostina
 
-GitHub Pages URL: [Expose Party Horn](https://muhshroom.github.io/Lab5_Starter/)
+GitHub Pages URL:[Expose Party Horn](https://muhshroom.github.io/Lab5_Starter/expose.html)
 
 ## Pt 3. Check Your Understanding Answers
 1. No, a "message" feature of a messaging application is a large moving application, not a small scale part. Unit testing specifically check one small, often isolated component of the whole workflow, instead of complex features like messaging. 
